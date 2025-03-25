@@ -18,7 +18,7 @@ function Home() {
                 Why choose us?
               </h2>
               <p className="font-heading mt-2 text-3xl leading-8 font-semibold tracking-tight text-gray-900 sm:text-4xl">
-                Empowering Learners Through Engaging Online Training
+                Enabling Growth Through Interactive Online Learning
               </p>
               {/* <p className="mt-4 max-w-2xl text-lg text-gray-500 lg:mx-auto">
                 Empowering Learners Through Engaging Online Training
@@ -30,17 +30,18 @@ function Home() {
                 <div className="relative">
                   <dt>
                     <div className="absolute flex items-center justify-center h-12 w-12 rounded-md bg-primary-500 text-white">
-                      {/* <img src="https://www.svgrepo.com/show/503163/api-settings.svg" /> */}
+                      {/* <img src="https://www.svgrepo.com/show/76267/free-commercial-label.svg" /> */}
                     </div>
                     <p className="font-heading ml-16 text-lg leading-6 font-bold text-gray-700">
-                      Our Impact
+                      Learning Designed for You
                     </p>
                   </dt>
                   <dd className="mt-2 ml-16 text-base text-gray-500">
-                    We provide a vibrant online learning platform with a diverse
-                    range of courses designed to equip you with the skills and
-                    knowledge you need to succeed. Our satisfied learners have
-                    used our training.
+                    {" "}
+                    We believe in engaging and interactive online training.
+                    Whether you're a visual learner, an auditory learner, or a
+                    hands-on learner, we have a training approach that caters to
+                    your style.
                   </dd>
                 </div>
                 <div className="relative">
@@ -63,6 +64,22 @@ function Home() {
                 <div className="relative">
                   <dt>
                     <div className="absolute flex items-center justify-center h-12 w-12 rounded-md bg-primary-500 text-white">
+                      {/* <img src="https://www.svgrepo.com/show/503163/api-settings.svg" /> */}
+                    </div>
+                    <p className="font-heading ml-16 text-lg leading-6 font-bold text-gray-700">
+                      Our Impact
+                    </p>
+                  </dt>
+                  <dd className="mt-2 ml-16 text-base text-gray-500">
+                    We provide a vibrant online learning platform with a diverse
+                    range of courses designed to equip you with the skills and
+                    knowledge you need to succeed. Our satisfied learners have
+                    used our training.
+                  </dd>
+                </div>
+                <div className="relative">
+                  <dt>
+                    <div className="absolute flex items-center justify-center h-12 w-12 rounded-md bg-primary-500 text-white">
                       {/* <img src="https://www.svgrepo.com/show/511771/dashboard-671.svg" /> */}
                     </div>
                     <p className="font-heading ml-16 text-lg leading-6 font-bold text-gray-700">
@@ -74,23 +91,6 @@ function Home() {
                     Our team is comprised of passionate instructors and industry
                     veterans with a wealth of experience. You can learn more
                     about our team on our dedicated page!
-                  </dd>
-                </div>
-                <div className="relative">
-                  <dt>
-                    <div className="absolute flex items-center justify-center h-12 w-12 rounded-md bg-primary-500 text-white">
-                      {/* <img src="https://www.svgrepo.com/show/76267/free-commercial-label.svg" /> */}
-                    </div>
-                    <p className="font-heading ml-16 text-lg leading-6 font-bold text-gray-700">
-                      Learning Designed for You
-                    </p>
-                  </dt>
-                  <dd className="mt-2 ml-16 text-base text-gray-500">
-                    {" "}
-                    We believe in engaging and interactive online training.
-                    Whether you're a visual learner, an auditory learner, or a
-                    hands-on learner, we have a training approach that caters to
-                    your style.
                   </dd>
                 </div>
               </dl>
